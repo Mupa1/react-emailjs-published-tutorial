@@ -4,6 +4,7 @@ import { Form, Input, TextArea, Button } from 'semantic-ui-react';
 import Swal from 'sweetalert2';
 import './App.css';
 
+// Replace the asterisk with IDs from EmailJS.
 const SERVICE_ID = "**************";
 const TEMPLATE_ID = "*******";
 const USER_ID = "****************";
